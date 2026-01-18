@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pkgxdev/mcp
+	branch = main
+	commit = b2859e0e7060e890ee82d7d89e2aae3d38223047
+	parent = c94c73275d6cf28f61ac7e04d9dfed603bb42569
+	method = merge
+	cmdver = 0.4.9
